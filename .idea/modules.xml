@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sem4_ex3_var2/sem4_ex3_var2.iml" filepath="$PROJECT_DIR$/sem4_ex3_var2/sem4_ex3_var2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem4_prob1/sem4_prob1.iml" filepath="$PROJECT_DIR$/sem4_prob1/sem4_prob1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem4_prob2/sem4_prob2.iml" filepath="$PROJECT_DIR$/sem4_prob2/sem4_prob2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem4_prob3/sem4_prob3.iml" filepath="$PROJECT_DIR$/sem4_prob3/sem4_prob3.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1_cts.iml" filepath="$PROJECT_DIR$/seminar1_cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3.iml" filepath="$PROJECT_DIR$/seminar3/seminar3.iml" />
