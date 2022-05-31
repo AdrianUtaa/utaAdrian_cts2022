@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sem10_prob15_state/sem10_prob15_state.iml" filepath="$PROJECT_DIR$/sem10_prob15_state/sem10_prob15_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem10_prob16_command/sem10_prob16_command.iml" filepath="$PROJECT_DIR$/sem10_prob16_command/sem10_prob16_command.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4_ex3_var2/sem4_ex3_var2.iml" filepath="$PROJECT_DIR$/sem4_ex3_var2/sem4_ex3_var2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4_prob1/sem4_prob1.iml" filepath="$PROJECT_DIR$/sem4_prob1/sem4_prob1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem4_prob2/sem4_prob2.iml" filepath="$PROJECT_DIR$/sem4_prob2/sem4_prob2.iml" />
